@@ -1,1 +1,1 @@
-O arquivo imprime Hello World na tela que traduzido seria "Olá, Mundo"
+O arquivo imprime Hello World na tela que traduzido seria "Olá, Mundo".
