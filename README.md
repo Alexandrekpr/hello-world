@@ -1,1 +1,1 @@
-# hello-world
+O arquivo imprime Hello World na tela que traduzido seria "Olá, Mundo"
